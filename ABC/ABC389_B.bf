@@ -1,5 +1,5 @@
 ### ABC389_B: tcaF
-memory layout:___X___F___N___P___
+memory layout: ___X___F___N___P___
 
 read num: X
 >>>+>+>+>+>+ >+>+>+>+>+ >+>+>+>+>+ >+>+>+>+>+

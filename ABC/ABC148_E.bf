@@ -10,7 +10,7 @@ read num: N
 divide by 2: N
 +[[->+<]<]>>[-[-<<+>>]<<<->[->>+<<[->+>-]+[-<+]->]
 >++[-<<+>>]->[->[+++++ +++++<]+[-<+]->]<+>>]<<<<[[->>+<<]<]
-if(N was an odd number) print(0)
+if(N was an odd number) write num 0
 >>>[>]+<-[[-]>[+++++<+>]<---.[-]]
 if(N was an even number): N_*_
 >[
